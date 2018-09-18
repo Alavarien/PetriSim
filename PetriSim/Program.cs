@@ -10,6 +10,8 @@ namespace PetriSim
     {
         static void Main(string[] args)
         {
+            Console.Title = "PetriSim";
+            Console.Read();
         }
     }
 }
