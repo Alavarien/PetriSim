@@ -15,6 +15,7 @@ namespace PetriSim.Cells
         }
 
         private int health;
+        private int timeAlive;
 
 
     }
